@@ -2,7 +2,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
-// ----Resumo Árvores----
+// ----Resumo Árvores----.
 
 //'*'->Não visto em sala, ou abordado de forma diferente.
 
